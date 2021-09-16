@@ -7,7 +7,8 @@
 
 📌 Marília - SP
 
-🎓 Curso Técninco - Desenvolvimento de Sistemas - ETEC Antônio Devisate
+🎓 Curso Técnico - Desenvolvimento de Sistemas - ETEC Antônio Devisate
+🎓 Curso Técnico - Analista em Suporte Técnico - MicroPro
 
 🔧 PHP, HTML, CSS e MariaDB
 <!---
