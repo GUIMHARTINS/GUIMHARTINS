@@ -11,7 +11,7 @@
 
 🎓 Curso Técnico - Analista em Suporte Técnico - MicroPro
 
-🔧 PHP, HTML, CSS e MariaDB
+🔧 PHP, HTML, CSS e MySQL
 <!---
 GUIMHARTINS/GUIMHARTINS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
